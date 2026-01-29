@@ -72,3 +72,20 @@ I enjoy working on **real-world projects**, learning new technologies daily, and
 ---
 
 ## 🎯 Career Goals
+
+- Become a **Data Scientist / ML Engineer**
+- Work on **real-world AI systems**
+- Contribute to **open-source projects**
+- Build impactful solutions in **AgriTech & AI-driven platforms**
+
+---
+
+## 🤝 Let’s Connect
+
+- 💼 LinkedIn: *(add your link here)*
+- 📧 Email: **pal98112016@gmail.com**
+- 🌍 Location: Kathmandu, Nepal
+
+---
+
+⭐ If you find my work useful, feel free to **star** the repositories and connect!
