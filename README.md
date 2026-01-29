@@ -1,91 +1,45 @@
-# 👋 Hi, I'm Amit Pal
+# Hi there, I'm Amit Pal 👋 🇳🇵
 
-🎓 Computer Science Graduate | 📊 Data Science & Machine Learning Enthusiast  
-🌱 Passionate about turning data into insights and building intelligent systems
-
----
-
-## 🚀 About Me
-
-I am a **Data Science learner and aspiring ML/AI Engineer** with a strong foundation in:
-- Data Analysis & Visualization  
-- Machine Learning fundamentals  
-- Python-based problem solving  
-
-I enjoy working on **real-world projects**, learning new technologies daily, and building systems that are **practical, scalable, and impactful**.
+### Data Science | Machine Learning | AI (NLP/RAG) Enthusiast
+📍 Kathmandu, Nepal
 
 ---
 
-## 🧠 Skills & Technologies
-
-### 🔹 Programming & Data
-- Python (EDA, Pandas, NumPy, Matplotlib, Seaborn)
-- SQL (data querying & analysis)
-
-### 🔹 Machine Learning
-- Supervised & Unsupervised Learning
-- Regression & Classification
-- Feature Engineering & Model Evaluation
-- Handling Missing Data & Class Imbalance (SMOTE)
-
-### 🔹 Data Tools
-- Power BI
-- Jupyter Notebook
-- Git & GitHub
-- Linux (Ubuntu/Kubuntu)
-
-### 🔹 Databases
-- MongoDB
-- Redis
-- Vector Databases (Qdrant – learning & implementation)
+## 💫 About Me
+- 🔭 I’m currently working on **RAG systems** (Qdrant + Redis memory) and ML projects.
+- 🧠 I’m passionate about **Machine Learning, NLP, and Data Analysis**.
+- 📊 I work with **Python, SQL, Power BI**, and real-world ML pipelines.
+- 🌱 I’m improving my **English communication** and preparing for **ML/DS interviews**.
 
 ---
 
-## 📂 Projects
+## 🚀 Tech Stack
 
-🔹 **Machine Learning Projects**
-- Regression & classification models with full ML pipeline
-- Kaggle projects (data cleaning → modeling → evaluation)
+### 📊 AI & Data Science
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/numpy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![SQL](https://img.shields.io/badge/sql-003B57?style=for-the-badge&logo=postgresql&logoColor=white)
+![Power%20BI](https://img.shields.io/badge/power%20bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
-🔹 **RAG & NLP Systems**
-- Retrieval-Augmented Generation (RAG)
-- Vector search with Qdrant
-- Context-aware follow-up question handling
-- Redis-based conversation memory
-
-🔹 **Applied AI**
-- Smart chatbot systems
-- CV analysis & candidate selection using NLP
-- Agriculture-focused AI assistant (AgriTech domain)
-
-➡️ *Check my repositories to explore detailed implementations.*
-
----
-
-## 📈 What I’m Currently Working On
-
-- Advanced Machine Learning & NLP concepts  
-- Production-level RAG architectures  
-- Model optimization & deployment practices  
-- Improving English communication & technical interviews  
+### 🤖 NLP / RAG / Backend
+![FastAPI](https://img.shields.io/badge/fastapi-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Qdrant](https://img.shields.io/badge/qdrant-FF4C00?style=for-the-badge&logo=qdrant&logoColor=white)
+![Redis](https://img.shields.io/badge/redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![MongoDB](https://img.shields.io/badge/mongodb-4ea94b?style=for-the-badge&logo=mongodb&logoColor=white)
+![Linux](https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Git](https://img.shieldsields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ---
 
-## 🎯 Career Goals
+## 📈 My GitHub Stats
+![Amit's GitHub stats](https://github-readme-stats-eight-theta.vercel.app/api?username=Amit3729&show_icons=true&theme=radical)
 
-- Become a **Data Scientist / ML Engineer**
-- Work on **real-world AI systems**
-- Contribute to **open-source projects**
-- Build impactful solutions in **AgriTech & AI-driven platforms**
+![Top Langs](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Amit3729&layout=compact&theme=radical)
 
 ---
 
-## 🤝 Let’s Connect
-
-- 💼 LinkedIn: *(add your link here)*
-- 📧 Email: **pal98112016@gmail.com**
-- 🌍 Location: Kathmandu, Nepal
-
----
-
-⭐ If you find my work useful, feel free to **star** the repositories and connect!
+## 📫 Connect with me:
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/amit-pal-222906338/)
+[<img src="https://img.shields.io/badge/gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">](mailto:pal98112016@gmail.com)
